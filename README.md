@@ -41,6 +41,6 @@
 
 А дали тя не е Нашата Вселена ...
 
-[Пространството като вселена](https://github.com/venpanchev/space-as-universe/raw/master/200603_SpaceAsUniverse.pdf)
+[Пространството като вселена](https://github.com/venpanchev/space-as-universe/raw/master/210501_SpaceAsUniverse.pdf)
 
 За мнения и коментари: space.as.universe@gmail.com
